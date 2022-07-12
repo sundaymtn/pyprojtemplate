@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/mnt/c/Projects/pyprojtemplate",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Seth Carter",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "seth.carter@siemens.com",
+  "friendly_name": "Python Project Template",
+  "github_user": "sundaymtn",
+  "license": "GPL-3.0",
+  "package_name": "distributable",
+  "project_name": "pyprojtemplate",
+  "version": "0.0.0"
+}
