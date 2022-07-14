@@ -7,7 +7,7 @@
 
 [![Read the documentation at https://pyprojtemplate.readthedocs.io/](https://img.shields.io/readthedocs/pyprojtemplate/latest.svg?label=Read%20the%20Docs)][read the docs]
 [![Tests](https://github.com/sundaymtn/pyprojtemplate/workflows/Tests/badge.svg)][tests]
-[![Codecov](https://codecov.io/gh/sundaymtn/pyprojtemplate/branch/main/graph/badge.svg)][codecov]
+[![Codecov](https://codecov.io/gh/sundaymtn/pyprojtemplate/branch/master/graph/badge.svg)][codecov]
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
